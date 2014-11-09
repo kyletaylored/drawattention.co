@@ -315,6 +315,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/contrarian-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 78524,
+		"inputAbbreviatedPath": "\/images\/contrarian-1.jpg",
+		"outputAbbreviatedPath": "\/images\/contrarian-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/contrarian.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82125,
+		"inputAbbreviatedPath": "\/images\/contrarian.jpg",
+		"outputAbbreviatedPath": "\/images\/contrarian.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/images\/contrarianmini.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -324,7 +346,7 @@
 		"outputAbbreviatedPath": "\/images\/contrarianmini.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/drawattention-logo.png": {
 		"fileType": 32768,
@@ -335,7 +357,18 @@
 		"outputAbbreviatedPath": "\/images\/drawattention-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/drawattention-stack.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106371,
+		"inputAbbreviatedPath": "\/images\/drawattention-stack.png",
+		"outputAbbreviatedPath": "\/images\/drawattention-stack.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/DrawAttention.png": {
 		"fileType": 32768,
@@ -346,7 +379,29 @@
 		"outputAbbreviatedPath": "\/images\/DrawAttention.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/kyle-face.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 74332,
+		"inputAbbreviatedPath": "\/images\/kyle-face.jpg",
+		"outputAbbreviatedPath": "\/images\/kyle-face.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/images\/mbp.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 69561,
+		"inputAbbreviatedPath": "\/images\/mbp.jpg",
+		"outputAbbreviatedPath": "\/images\/mbp.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/slider\/coffeetable.jpg": {
 		"fileType": 16384,
@@ -412,7 +467,7 @@
 		"outputAbbreviatedPath": "\/images\/theair.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/thepad.jpg": {
 		"fileType": 16384,
@@ -423,7 +478,7 @@
 		"outputAbbreviatedPath": "\/images\/thepad.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/thepro.jpg": {
 		"fileType": 16384,
@@ -434,7 +489,7 @@
 		"outputAbbreviatedPath": "\/images\/thepro.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
