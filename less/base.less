@@ -36,21 +36,22 @@ p, ul, li, span {
 	line-height: 24px;
 }
 a {
+	color: @primary;
 	background:none;
 	outline: none;
 	text-decoration: none;
 	&:hover {
-		color:@color3;
+		color:@secondary;
 		outline: none;
 		text-decoration: none;
 	}
 	&:active {
-		color:@color3;
+		color:@secondary;
 		outline: none;
 		text-decoration: none;
 	}
 	&:focus {
-		color:@color3;
+		color:@secondary;
 		outline: none;
 		text-decoration: none;
 	}
@@ -62,19 +63,19 @@ a {
 	color:white;
 }
 ::-webkit-input-placeholder {
-	color:@color2 !important;
+	color:@gray-light !important;
 	font-weight: normal;
 }
 :-moz-placeholder {
-	color:@color2 !important;
+	color:@gray-light !important;
 	font-weight: normal;
 }
 ::-moz-placeholder {
-	color:@color2 !important;
+	color:@gray-light !important;
 	font-weight: normal;
 }
 :-ms-input-placeholder {
-	color:@color2 !important;
+	color:@gray-light !important;
 	font-weight: normal;
 }
 
@@ -94,7 +95,7 @@ select, textarea, input[type="text"], input[type="password"], input[type="dateti
 	border-radius: 0;
 	border: 2px solid #C8C3C3;
 	box-shadow: none;
-	color: @color2;
+	color: @gray;
 	display: inline-block;
 	font-size: 14px;
 	height:46px;
