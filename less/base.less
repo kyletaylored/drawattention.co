@@ -57,9 +57,11 @@ a {
 	}
 }
 ::selection {
+	background-color: @primary;
 	color:white;
 }
 ::-moz-selection {
+	background-color: @primary;
 	color:white;
 }
 ::-webkit-input-placeholder {
@@ -116,10 +118,10 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 .btn-default {
 	background:none;
 	border-radius:0px;
-	border:2px solid #C2BFBF !important;
+	border:2px solid @primary;
 	border:none;
 	box-shadow:none;
-	color: #868080;
+	color: @accent;
 	display: inline-block;
 	font-size:14px;
 	font-weight:600;
@@ -144,7 +146,7 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 .btn-primary {
 	background:none;
 	border-radius:0px;
-	border:2px solid white !important;
+	border:2px solid white;
 	border:none;
 	box-shadow:none;
 	color: white;
@@ -157,17 +159,17 @@ textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[ty
 	text-transform: uppercase;
 	&:hover {
 		background:white;
-		border-color:white !important;
+		border-color:white;
 		outline:none;
 	}
 	&:active {
 		background:white;
-		border-color:white !important;
+		border-color:white;
 		outline:none;
 	}
 	&:focus {
 		background:white;
-		border-color:white !important;
+		border-color:white;
 		outline:none;
 	}
 }
@@ -551,7 +553,7 @@ html[xmlns].slides {
 			margin-right:10px;
 			a {
 				border:1px solid white;
-				color:white;
+				color:@primary;
 				display:inline-block;
 				font-size:30px;
 				height:50px;
@@ -559,6 +561,10 @@ html[xmlns].slides {
 				width:50px;
 				&:last-child {
 					margin-right:0px;
+				}
+				&:hover {
+					background-color: @primary;
+					color: @accent;
 				}
 			}
 		}
@@ -571,7 +577,7 @@ html[xmlns].slides {
 	text-align:center;
 	width:100%;
 	.btn {
-		border: 1px solid white !important;
+		border: 1px solid white ;
 	}
 }
 .about-media {
@@ -687,12 +693,6 @@ html[xmlns].slides {
 		}
 	}
 }
-.cta-button {
-	a {
-		margin-bottom:30px;
-		margin-top: 5px;
-	}
-}
 
 .service-box {
 	margin-bottom:30px;
@@ -772,6 +772,10 @@ html[xmlns].slides {
 }
 footer {
 	padding:45px 0 30px;
+	color: white;
+	h1,h2,h3,h4,h5 {
+		color: white;
+	}
 	p {
 		color:white;
 	}
@@ -848,5 +852,27 @@ select {
 @media screen and (max-width:570px) {
 	.intro-btn-main {
 		display:none;
+	}
+}
+
+.btn {
+	&.btn-primary {
+		border: 2px solid @primary;
+		color: @primary;	
+		&:hover, &:focus, &:active {
+			background-color: @primary;
+			color: white;
+		}
+	}
+}
+
+.margin-bottom {
+	margin-bottom: 50px;
+}
+
+.product {
+	.product-desc-small {
+		font-size: 14px;
+		color: @gray-light;
 	}
 }

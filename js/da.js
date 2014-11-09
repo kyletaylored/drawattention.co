@@ -20,6 +20,14 @@ jQuery(document).ready(function($) {
 	// Stellar.js
 	$.stellar();
 
+	// Forms.brace.io
+	$.ajax({
+    url: "//forms.brace.io/drawattentionco@gmail.com",
+    method: "POST",
+    data: {message: "hello!"},
+    dataType: "json"
+	});
+
 });
 
 /* === Smooth scroll === */
