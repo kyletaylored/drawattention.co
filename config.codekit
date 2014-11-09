@@ -403,6 +403,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/michael.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81577,
+		"inputAbbreviatedPath": "\/images\/michael.jpg",
+		"outputAbbreviatedPath": "\/images\/michael.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/product-1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 157592,
+		"inputAbbreviatedPath": "\/images\/product-1.jpg",
+		"outputAbbreviatedPath": "\/images\/product-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/slider\/coffeetable.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -412,7 +434,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/coffeetable.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/developer.jpg": {
 		"fileType": 16384,
@@ -423,7 +445,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/developer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/rock.jpg": {
 		"fileType": 16384,
@@ -434,7 +456,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/rock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/talking.jpg": {
 		"fileType": 16384,
