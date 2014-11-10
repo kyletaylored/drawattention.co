@@ -359,6 +359,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/images\/drawattention-stack-small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 106348,
+		"inputAbbreviatedPath": "\/images\/drawattention-stack-small.png",
+		"outputAbbreviatedPath": "\/images\/drawattention-stack-small.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/drawattention-stack.png": {
 		"fileType": 32768,
 		"ignore": 0,
