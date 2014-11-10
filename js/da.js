@@ -20,6 +20,14 @@ jQuery(document).ready(function($) {
 	// Stellar.js
 	$.stellar();
 
+	// Images loaded and product image sizes
+	var $products = $(".product-row .product");
+		imagesLoaded($products[0], function() {
+			// All images loaded
+			window.console.log("Images loaded.");
+			$products.equalHeight();
+		});
+
 });
 
 /* === Smooth scroll === */
