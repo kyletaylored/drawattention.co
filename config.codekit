@@ -13,121 +13,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/bower_components\/jquery.tubular\/css\/reset.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/css\/reset.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/jquery.tubular\/css\/screen.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/css\/screen.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/jquery.tubular\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/bower_components\/jquery.tubular\/js\/index.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/js\/index.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/js\/min\/index-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/jquery.tubular\/js\/jquery.tubular.1.0.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/js\/jquery.tubular.1.0.js",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/js\/min\/jquery.tubular.1.0-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/bower_components\/jquery.tubular\/media\/black-15-trans.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-15-trans.png",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-15-trans.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bower_components\/jquery.tubular\/media\/black-35-trans.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-35-trans.png",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-35-trans.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bower_components\/jquery.tubular\/media\/black-50-trans.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 168,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-50-trans.png",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-50-trans.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bower_components\/jquery.tubular\/media\/black-65-trans.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-65-trans.png",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-65-trans.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bower_components\/jquery.tubular\/media\/black-85-trans.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 169,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-85-trans.png",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/black-85-trans.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/bower_components\/jquery.tubular\/media\/logo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 8812,
-		"inputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/logo.png",
-		"outputAbbreviatedPath": "\/bower_components\/jquery.tubular\/media\/logo.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/bower_components\/sticky\/example-center.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -434,62 +319,62 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 658942,
+		"initialSize": 631915,
 		"inputAbbreviatedPath": "\/images\/been-awhile.jpg",
 		"outputAbbreviatedPath": "\/images\/been-awhile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contrarian-1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 78524,
+		"initialSize": 51269,
 		"inputAbbreviatedPath": "\/images\/contrarian-1.jpg",
 		"outputAbbreviatedPath": "\/images\/contrarian-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contrarian.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 82125,
+		"initialSize": 55182,
 		"inputAbbreviatedPath": "\/images\/contrarian.jpg",
 		"outputAbbreviatedPath": "\/images\/contrarian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/contrarianmini.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 127502,
+		"initialSize": 100641,
 		"inputAbbreviatedPath": "\/images\/contrarianmini.jpg",
 		"outputAbbreviatedPath": "\/images\/contrarianmini.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/drawattention-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 81436,
+		"initialSize": 39705,
 		"inputAbbreviatedPath": "\/images\/drawattention-logo.png",
 		"outputAbbreviatedPath": "\/images\/drawattention-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/drawattention-stack-small.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 106348,
+		"initialSize": 54446,
 		"inputAbbreviatedPath": "\/images\/drawattention-stack-small.png",
 		"outputAbbreviatedPath": "\/images\/drawattention-stack-small.png",
 		"outputPathIsOutsideProject": 0,
@@ -500,23 +385,23 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 106371,
+		"initialSize": 106348,
 		"inputAbbreviatedPath": "\/images\/drawattention-stack.png",
 		"outputAbbreviatedPath": "\/images\/drawattention-stack.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/DrawAttention.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 81436,
+		"initialSize": 81408,
 		"inputAbbreviatedPath": "\/images\/DrawAttention.png",
 		"outputAbbreviatedPath": "\/images\/DrawAttention.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/kyle-face.jpg": {
 		"fileType": 16384,
@@ -527,24 +412,24 @@
 		"outputAbbreviatedPath": "\/images\/kyle-face.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/mbp.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 69561,
+		"initialSize": 48580,
 		"inputAbbreviatedPath": "\/images\/mbp.jpg",
 		"outputAbbreviatedPath": "\/images\/mbp.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/michael.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 81577,
+		"initialSize": 356855,
 		"inputAbbreviatedPath": "\/images\/michael.jpg",
 		"outputAbbreviatedPath": "\/images\/michael.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -566,34 +451,34 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.91065e+06,
+		"initialSize": 1.7101e+06,
 		"inputAbbreviatedPath": "\/images\/slider\/coffeetable.jpg",
 		"outputAbbreviatedPath": "\/images\/slider\/coffeetable.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/slider\/developer.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 693978,
+		"initialSize": 668448,
 		"inputAbbreviatedPath": "\/images\/slider\/developer.jpg",
 		"outputAbbreviatedPath": "\/images\/slider\/developer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/slider\/rock.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 767132,
+		"initialSize": 737495,
 		"inputAbbreviatedPath": "\/images\/slider\/rock.jpg",
 		"outputAbbreviatedPath": "\/images\/slider\/rock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/social-brand.jpg": {
 		"fileType": 16384,
@@ -610,56 +495,87 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 699238,
+		"initialSize": 672422,
 		"inputAbbreviatedPath": "\/images\/talking.jpg",
 		"outputAbbreviatedPath": "\/images\/talking.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/testimonial.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 275591,
+		"initialSize": 648610,
 		"inputAbbreviatedPath": "\/images\/testimonial.jpg",
 		"outputAbbreviatedPath": "\/images\/testimonial.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/theair.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 73380,
+		"initialSize": 45000,
 		"inputAbbreviatedPath": "\/images\/theair.jpg",
 		"outputAbbreviatedPath": "\/images\/theair.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/thepad.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 83080,
+		"initialSize": 56170,
 		"inputAbbreviatedPath": "\/images\/thepad.jpg",
 		"outputAbbreviatedPath": "\/images\/thepad.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/images\/thepro.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 968440,
+		"initialSize": 935207,
 		"inputAbbreviatedPath": "\/images\/thepro.jpg",
 		"outputAbbreviatedPath": "\/images\/thepro.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/js\/da.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/da.js",
+		"outputAbbreviatedPath": "\/js\/min\/da-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 2
+		},
+	"\/js\/min\/da-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/min\/da-min.js",
+		"outputAbbreviatedPath": "\/js\/min\/min\/da-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
 		},
 	"\/less\/base.less": {
 		"allowInsecureImports": 0,
@@ -749,9 +665,9 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "barcampdallas",
+	"displayValue": "drawattention.co",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "harddrive_blue"
+	"iconImageName": "brackets_blue"
 	},
 "projectSettings": {
 	"alwaysUseExternalServer": 0,

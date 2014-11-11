@@ -17,20 +17,25 @@ jQuery(document).ready(function($) {
 		slideshowSpeed:6000,
 	});
 
-	// Stellar.js
-	$.stellar();
+	// Only run parallax on desktop.
+	if (typeof MobileDetect === "function") {
+		var md = new MobileDetect(window.navigator.userAgent);
+		if (!md.mobile()) {
+			// Stellar.js
+			$.stellar();
+		}
+	}
 
 	// Images loaded and product image sizes
 	var $products = $(".product-row .product");
-		imagesLoaded($products[0], function() {
+	imagesLoaded($products[0], function() {
 			// All images loaded
-			window.console.log("Images loaded.");
 			$products.equalHeight();
 		});
 
 });
 
-/* === Smooth scroll === */
+// Smooth scroll
 
 (function($) { "use strict";
 	$(".page-scroll a[href^='#']").on('click', function(e) {
@@ -46,7 +51,7 @@ $('.navbar-collapse ul li a').click(function(){
 });
 
 
-/* === Scroll to top === */
+// Scroll to top
 
 $(window).scroll(function(){
 	if ($(this).scrollTop() > 100) {
