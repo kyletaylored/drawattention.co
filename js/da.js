@@ -1,5 +1,5 @@
 // Draw Attention Javascript
-jQuery(document).ready(function($) {
+jQuery(document).ready(function ($) {
 	
 	// Page loader
 	$(".loader-item").delay(500).fadeOut();

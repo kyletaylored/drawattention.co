@@ -881,9 +881,21 @@ select {
 	margin-bottom: 50px;
 }
 
-.product {
+.product, .product-amazon {
 	.product-desc-small {
 		font-size: 14px;
 		color: @gray-light;
+	}
+}
+.product-row-amazon {
+	text-align: center;
+	.product-amazon {
+		margin-bottom: 1em;
+		text-align: center;
+		width: 100%;
+		img {
+			max-height: 150px;
+			width: auto;
+		}
 	}
 }
