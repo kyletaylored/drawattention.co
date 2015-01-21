@@ -52,7 +52,6 @@ $('.navbar-collapse ul li a').click(function(){
 
 
 // Scroll to top
-
 $(window).scroll(function(){
 	if ($(this).scrollTop() > 100) {
 		$('.scrollup').fadeIn();
