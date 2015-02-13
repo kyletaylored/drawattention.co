@@ -324,7 +324,7 @@
 		"outputAbbreviatedPath": "\/images\/been-awhile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contrarian-1.jpg": {
 		"fileType": 16384,
@@ -335,7 +335,7 @@
 		"outputAbbreviatedPath": "\/images\/contrarian-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contrarian.jpg": {
 		"fileType": 16384,
@@ -346,7 +346,7 @@
 		"outputAbbreviatedPath": "\/images\/contrarian.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/contrarianmini.jpg": {
 		"fileType": 16384,
@@ -357,18 +357,29 @@
 		"outputAbbreviatedPath": "\/images\/contrarianmini.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/images\/drawattention-logo-old.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40505,
+		"inputAbbreviatedPath": "\/images\/drawattention-logo-old.png",
+		"outputAbbreviatedPath": "\/images\/drawattention-logo-old.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/images\/drawattention-logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 39705,
+		"initialSize": 23671,
 		"inputAbbreviatedPath": "\/images\/drawattention-logo.png",
 		"outputAbbreviatedPath": "\/images\/drawattention-logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/drawattention-stack-small.png": {
 		"fileType": 32768,
@@ -379,7 +390,7 @@
 		"outputAbbreviatedPath": "\/images\/drawattention-stack-small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/drawattention-stack.png": {
 		"fileType": 32768,
@@ -390,7 +401,7 @@
 		"outputAbbreviatedPath": "\/images\/drawattention-stack.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/DrawAttention.png": {
 		"fileType": 32768,
@@ -401,7 +412,7 @@
 		"outputAbbreviatedPath": "\/images\/DrawAttention.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/eric.jpg": {
 		"fileType": 16384,
@@ -412,7 +423,7 @@
 		"outputAbbreviatedPath": "\/images\/eric.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/kyle-face.jpg": {
 		"fileType": 16384,
@@ -423,7 +434,7 @@
 		"outputAbbreviatedPath": "\/images\/kyle-face.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/mbp.jpg": {
 		"fileType": 16384,
@@ -434,7 +445,7 @@
 		"outputAbbreviatedPath": "\/images\/mbp.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/michael.jpg": {
 		"fileType": 16384,
@@ -445,7 +456,7 @@
 		"outputAbbreviatedPath": "\/images\/michael.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/product-1.jpg": {
 		"fileType": 16384,
@@ -456,7 +467,7 @@
 		"outputAbbreviatedPath": "\/images\/product-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/coffeetable-1.jpg": {
 		"fileType": 16384,
@@ -467,7 +478,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/coffeetable-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/coffeetable.jpg": {
 		"fileType": 16384,
@@ -478,7 +489,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/coffeetable.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/developer-1.jpg": {
 		"fileType": 16384,
@@ -489,7 +500,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/developer-1.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/developer.jpg": {
 		"fileType": 16384,
@@ -500,7 +511,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/developer.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/slider\/rock.jpg": {
 		"fileType": 16384,
@@ -511,7 +522,7 @@
 		"outputAbbreviatedPath": "\/images\/slider\/rock.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/social-brand.jpg": {
 		"fileType": 16384,
@@ -522,7 +533,7 @@
 		"outputAbbreviatedPath": "\/images\/social-brand.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/talking.jpg": {
 		"fileType": 16384,
@@ -533,7 +544,7 @@
 		"outputAbbreviatedPath": "\/images\/talking.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/testimonial.jpg": {
 		"fileType": 16384,
@@ -544,7 +555,7 @@
 		"outputAbbreviatedPath": "\/images\/testimonial.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/theair.jpg": {
 		"fileType": 16384,
@@ -555,7 +566,7 @@
 		"outputAbbreviatedPath": "\/images\/theair.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/thepad.jpg": {
 		"fileType": 16384,
@@ -566,7 +577,7 @@
 		"outputAbbreviatedPath": "\/images\/thepad.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/images\/thepro.jpg": {
 		"fileType": 16384,
@@ -577,7 +588,7 @@
 		"outputAbbreviatedPath": "\/images\/thepro.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/index.html": {
 		"fileType": 8192,
