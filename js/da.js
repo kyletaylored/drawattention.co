@@ -64,3 +64,33 @@ $('.scrollup').click(function(){
 	$("html, body").animate({ scrollTop: 0 }, 2000);
 	return false;
 });
+
+// Maps
+var map = L.map("map", {
+    //attributionControl: false,
+  }).setView([32, -100], 3);
+
+L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+	detectRetina: true,
+}).addTo(map);
+
+// Initiate Prune
+var pruneCluster = new PruneClusterForLeaflet();
+
+$.getJSON("https://spreadsheets.google.com/feeds/list/1a8lGTpeX33RB9I0xj2GdpvoQpuaHywCOAKsxf87iKrA/od6/public/values?alt=json", function(data) {
+  //first row "title" column
+  var locations = data.feed.entry;
+
+  for (var i = locations.length - 1; i >= 0; i--) {
+		var latitude = locations[i].gsx$latitude.$t,
+		longitude = locations[i].gsx$longitude.$t;
+		var marker = new PruneCluster.Marker(latitude, longitude);
+		pruneCluster.RegisterMarker(marker);
+  }
+	// Add prune, Redraw lines
+	map.addLayer(pruneCluster);
+});
+
+map.on("zoomend", function(){
+	pruneCluster.ProcessView();
+});
